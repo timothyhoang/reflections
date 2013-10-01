@@ -1,0 +1,16 @@
+reflections
+===========
+
+The topics that have been challenging this week have included understanding how to access ipython on my 
+browser using vagrant instead of virtual box. I had initially thought that I had got ipython notebook to work
+using virtual box, however, none of the new notebook documents that I was creating were being saved. The focus 
+this weeks seems to be student's interests in reproducible data and why they were taking this class. There 
+were a few students who had experience working on projects that utilized reproducibility, however, the majority
+of the students in the class seemed to not have any idea what they could do with reproducible data. Many students
+had joined this class to learn more about the tools that would be used in data science, such as github and ipython
+notebook, however, the discussion on Thursday was engaging in that it was one of the first times we were going 
+over the purpose for everything that we were doing: downloading virtual box, using github, using ipython notebook.
+I had realized during the discussion that repoducibility had many more real world applications beyond the basic
+concepts we had discussed before about reproducible designs for experiments. The short lecture about the mass 
+buyout of Intel chips used in Boeing planes and the applications of reproducibility and consistency in plane 
+hardware maintenace helped make reproducibility seem more relevant to industry as oppossed to simply science.
